@@ -1,2 +1,2 @@
 This is page 2!
-[go back](jacobliu.org)
+[go back](http://jacobliu.org/page2.html)
