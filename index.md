@@ -1,6 +1,6 @@
 <div class="row" markdown="1">
 <div class="col-md-8" markdown="1">
-<div style ="text-align: center" markdown = "1">
+<!-- <div style ="text-align: center" markdown = "1"> -->
 
 # Jacob Liu 
 
