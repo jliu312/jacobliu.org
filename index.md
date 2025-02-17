@@ -7,5 +7,7 @@
 
 Hi, I'm Jacob! I'm currently a Computer Science Student at UCSD. 
 
+I love CSE 110!!
+
 </div>
 </div>
